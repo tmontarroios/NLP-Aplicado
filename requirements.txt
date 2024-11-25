@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+setuptools
+matplotlib
+pyarrow
+fastparquet
+transformers
+torch
+spacy
+seaborn
+tf-keras
+transformers
